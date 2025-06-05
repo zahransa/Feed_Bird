@@ -3,8 +3,8 @@
 This is a GitHub Pages site for the Feed Bird experiment.  
 Explore:
 
-- [Scripts Folder](./scripts/)
-- [Data](./data/)
+- [Scripts Folder](./Scripts/)
+- [Data](./Data/)
 - [Documentation](./README.md)
 
 > Built using GitHub Pages with ❤️
